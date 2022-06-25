@@ -11,11 +11,11 @@ string rtrim(const string &);
 vector<string> split(const string &);
 
 //
-// Should print and output a staircase based
-// one the number of steps passed in.
+// Should calculate the min and max sums of a given
+// array
 //
 // arg-list:
-//  -> n: number of steps for the staircase
+//  -> arr: vector array being passed in
 //
 void miniMaxSum(vector<int> arr)
 {
